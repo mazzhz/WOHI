@@ -1,0 +1,66 @@
+.container1
+{
+  color:#F3D9D8;
+  width: 75%;
+
+  padding-right: var(--bs-gutter-x,.75rem);
+  padding-left: var(--bs-gutter-x,.75rem);
+  padding-bottom: var(--bs-gutter-x,.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+.navbar{
+  background:#F3D9D8;
+}
+.header{
+  position: fixed;
+  left:0;
+  right:0;
+  top:0;
+  color:#F3D9D8;
+}
+.container2 {
+  width: 75%;
+  background: white;
+  justify-content: center;
+  padding: var(--bs-gutter-x, .75rem);
+  margin-right: auto;
+  margin-left: auto;
+  border-color: darkgrey;
+}
+
+body {
+  padding-top: 65px;
+  background: url("../img/flowers-8511539_1280.jpg") repeat;
+  min-height: 100%;
+  font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+}
+
+lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+h1{
+  font-family: Lobster , "PT Sans", Calibri, Tahoma,sans-serif;
+  line-height: 1.25;
+  text-shadow: 3px 3px 3px #ababab;
+}
+
+h2, h3 {
+  margin: 0;
+  line-height: 1.25;
+  text-align: center;
+}
+
+h2, h3 {
+  color: hsl(280, 50%, 40%)
+}
+
+
+.center-top
+{
+  align-items: unset;
+}
+
