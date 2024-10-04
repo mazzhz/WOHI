@@ -52,15 +52,11 @@ h2, h3 {
   margin: 0;
   line-height: 1.25;
   text-align: center;
-}
-
-h2, h3 {
   color: hsl(280, 50%, 40%)
 }
-
-
 .center-top
 {
   align-items: unset;
 }
+/*Let's add 1 line of code (exercise 3)*/
 
